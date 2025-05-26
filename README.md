@@ -14,5 +14,7 @@ HTTPS server with multiple processes, error pages, images, php and logging
 
     for script showcase https://localhost:8080/script.php
 
+    There is no UI or menu, because this showcases only the backend
+
 ## EXIT
     ctrl + c
