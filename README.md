@@ -10,7 +10,9 @@ HTTPS server with multiple processes, error pages, images, php and logging
 ## INFO
     https://localhost:8080/index.html
 
-    for image showcase /kitten.jpg
+    for image showcase https://localhost:8080/kitten.jpg
+
+    for script showcase https://localhost:8080/script.php
 
 ## EXIT
     ctrl + c
